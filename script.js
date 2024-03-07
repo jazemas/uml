@@ -1,0 +1,1 @@
+alert("aplicacion de inventario");
